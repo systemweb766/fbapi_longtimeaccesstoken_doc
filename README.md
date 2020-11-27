@@ -1,2 +1,0 @@
-# fbapi_longtimeaccesstoken_doc
-FacebookAPIの長期ページアクセストークンの更新方法
